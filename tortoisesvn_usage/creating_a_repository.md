@@ -1,0 +1,7 @@
+### Creating a Repository {#creating-a-repository}
+
+For a real project we will have a repository set up somewhere safe and a Subversion server to control it. For the purposes of this tutorial we are going to use Subversion&#039;s local repository feature which allows direct access to a repository created on your hard drive without needing a server at all.
+
+First create a new empty directory on your PC. It can go anywhere, but in this tutorial we are going to call it C:\svn_repos. Now right click on the new folder and from the context menu choose TortoiseSVN → Create Repository here.... The repository is then created inside the folder, ready for you to use. We will also create the default internal folder structure by clicking the Create folder structure button.
+
+**Note:** The local repository feature is very useful for test and evaluation but unless you are working as a sole developer on one PC you should always use a proper Subversion server. It is tempting in a _small company to avoid the work of setting up a server and just access your repository on a network share. Don&#039;t ever do that. You will lose data._
