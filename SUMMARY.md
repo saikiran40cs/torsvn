@@ -1,6 +1,6 @@
 # Summary
 
-* [TortoiseSVN](README.md)
+* [Preface](README.md)
 * [TortoiseSVN Installation ](tortoisesvn_installation/README.md)
   * [System requirements](tortoisesvn_installation/system_requirements.md)
   * [Important](tortoisesvn_installation/important.md)
@@ -19,3 +19,4 @@
   * [Installation of the Subversive Plug-In](configure_svn_in_eclipse_ide/installation_of_the_subversive_plug-in.md)
 * [Import Repository using Eclipse](import_repository_using_eclipse/README.md)
   * [SVN Explorer View](import_repository_using_eclipse/svn_explorer_view.md)
+

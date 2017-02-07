@@ -4,7 +4,7 @@ Before we get stuck into working with some real files, it is important to get an
 
 **The Repository**
 
-Subversion uses a central database which contains all your version-controlled files with their complete history. This database is referred to as the repository. The repository normally lives on a file server running the Subversion server program, which supplies content to Subversion clients (like TortoiseSVN) on request. If you only back up one thing, back up your repository as it is the definitive master copy of all your data.
+Subversion uses a central database which contains all your version-controlled files with their complete history. This database is referred to as the repository. The repository normally lives on a file server running the Subversion server program, which supplies content to Subversion clients \(like TortoiseSVN\) on request. If you only back up one thing, back up your repository as it is the definitive master copy of all your data.
 
 **Working Copy**
 
@@ -14,4 +14,7 @@ A Subversion working copy does not contain the history of the project, but it do
 
 We also need to know where to find TortoiseSVN because there is not much to see from the Start Menu. This is because TortoiseSVN is a Shell extension, so first of all, start Windows Explorer. Right click on a folder in Explorer and you should see some new entries in the context menu like this:
 
-![The TortoiseSVN menu for unversioned folders](../assets/the_tortoisesvn_menu_for_unversione.png)**Figure 1.1. The TortoiseSVN menu for unversioned folders**
+![The TortoiseSVN menu for unversioned folders](../assets/the_tortoisesvn_menu_for_unversione.png)
+
+**Figure 1.1. The TortoiseSVN menu for unversioned folders**
+
